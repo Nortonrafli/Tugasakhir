@@ -1,6 +1,6 @@
 <?php
 
-class C_Penjualan extends CI_Controller
+class C_penjualan extends CI_Controller
 {
     function index()
     {

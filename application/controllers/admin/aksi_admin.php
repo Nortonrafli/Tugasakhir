@@ -1,6 +1,6 @@
 <?php
 
-class Aksi_Admin extends CI_Controller
+class Aksi_admin extends CI_Controller
 {
     function index()
     {
